@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://afupioye.github.io/LJq/sitemap_index.txt
+Sitemap: https://afupioye.github.io/UIH/sitemap_index.txt
+Sitemap: https://afupioye.github.io/fCY/sitemap_index.txt
+Sitemap: https://afupioye.github.io/gQc/sitemap_index.txt
